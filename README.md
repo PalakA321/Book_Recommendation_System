@@ -15,6 +15,10 @@ A personalized book recommendation system built using Item-Based Collaborative F
 - Pandas, NumPy
 - Scikit-learn (cosine similarity)
 - Flask (web interface)
+## 🏃 How to Run
+1. Clone the repo: `git clone https://github.com/PalakA321/Book_Recommendation_System`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python app.py`
 
 ## Author
 
