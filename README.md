@@ -9,7 +9,7 @@ A personalized book recommendation system built using Item-Based Collaborative F
 - Uses cosine similarity to find and rank similar books
 - Generates personalized top-5 book recommendations for a given user
 
-## Tech stack
+## Tech stack used
 
 - Python
 - Pandas, NumPy
